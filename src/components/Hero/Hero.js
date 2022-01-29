@@ -23,7 +23,7 @@ const Hero = () => {
             />
             <img src="/images/hero-img" alt="Unsprinkle hero" />
         </HeroImage>
-      <Swoop src="/swoop.svg" />
+      <Swoop src="/swoop.svg" alt="" aria-hidden />
     </Wrapper>
   );
 };
